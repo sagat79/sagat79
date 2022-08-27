@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 </br>
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2039](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/2039) in [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)
+2. 💪 Opened PR [#146](https://github.com/techno-tim/littlelink-server/pull/146) in [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server)
+3. 🎉 Merged PR [#1](https://github.com/sagat79/link-server/pull/1) in [sagat79/link-server](https://github.com/sagat79/link-server)
+<!--END_SECTION:activity-->
