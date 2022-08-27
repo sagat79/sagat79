@@ -8,7 +8,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 [homepage]: https://www.dimov.xyz
 [matrixto]: https://matrix.to/#/@pavel:dimov.xyz
 [github]: https://github.com/sagat79
-
+   
 <!--
 ### Hi there 👋
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</br>
+ 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2039](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/2039) in [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)
