@@ -1,6 +1,18 @@
-### Hi there 👋
+<img align="left" width="150" height="150" alt="PΛVΞL D." src="https://sdk.bitmoji.com/render/panel/dc878a02-6c0d-4366-ab3b-b86a397e31ad-9abca207-e196-4c3e-8932-0fae4ce0c737-v1.png?transparent=1&palette=1"/>
+
+## I'm [PΛVΞL D.][homepage]
+
+A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a web designer. I love building applications & discussing new product ideas. Reach out to me on [matrix][matrixto] if you'd like to talk ✌️
+
+
+[homepage]: https://www.dimov.xyz
+[matrixto]: https://matrix.to/#/@pavel:dimov.xyz
+[github]: https://github.com/sagat79
 
 <!--
+### Hi there 👋
+
+
 **sagat79/sagat79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +26,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</br>
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+</br>
+<!-- ✅  **GitHub Extra Pins**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sagat79)] -->
+
+</br>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=sagat79" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
