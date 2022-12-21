@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sagat79/ghost-cloudinary/pull/1) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
-2. 💪 Opened PR [#2039](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/2039) in [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)
+1. 🎉 Merged PR [#1](https://github.com/sagat79/dimov-matrix-service-changelog/pull/1) in [sagat79/dimov-matrix-service-changelog](https://github.com/sagat79/dimov-matrix-service-changelog)
+2. 💪 Opened PR [#1](https://github.com/sagat79/dimov-matrix-service-changelog/pull/1) in [sagat79/dimov-matrix-service-changelog](https://github.com/sagat79/dimov-matrix-service-changelog)
 3. 🎉 Merged PR [#1](https://github.com/sagat79/link-server/pull/1) in [sagat79/link-server](https://github.com/sagat79/link-server)
 <!--END_SECTION:activity-->
 
