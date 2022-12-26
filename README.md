@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sagat79/dimov-matrix-service-changelog/pull/1) in [sagat79/dimov-matrix-service-changelog](https://github.com/sagat79/dimov-matrix-service-changelog)
-2. 💪 Opened PR [#1](https://github.com/sagat79/dimov-matrix-service-changelog/pull/1) in [sagat79/dimov-matrix-service-changelog](https://github.com/sagat79/dimov-matrix-service-changelog)
-3. 🎉 Merged PR [#1](https://github.com/sagat79/link-server/pull/1) in [sagat79/link-server](https://github.com/sagat79/link-server)
+1. 💪 Opened PR [#1](https://github.com/spantaleev/vaultwarden-docker-ansible-deploy/pull/1) in [spantaleev/vaultwarden-docker-ansible-deploy](https://github.com/spantaleev/vaultwarden-docker-ansible-deploy)
+2. 🎉 Merged PR [#1](https://github.com/sagat79/vaultwarden-docker-ansible-deploy/pull/1) in [sagat79/vaultwarden-docker-ansible-deploy](https://github.com/sagat79/vaultwarden-docker-ansible-deploy)
+3. 💪 Opened PR [#1](https://github.com/sagat79/vaultwarden-docker-ansible-deploy/pull/1) in [sagat79/vaultwarden-docker-ansible-deploy](https://github.com/sagat79/vaultwarden-docker-ansible-deploy)
 <!--END_SECTION:activity-->
 
