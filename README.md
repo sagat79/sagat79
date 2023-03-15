@@ -33,4 +33,3 @@ Here are some ideas to get you started:
 2. 💪 Opened PR [#6](https://github.com/spantaleev/gitea-docker-ansible-deploy/pull/6) in [spantaleev/gitea-docker-ansible-deploy](https://github.com/spantaleev/gitea-docker-ansible-deploy)
 3. 🗣 Commented on [#5](https://github.com/spantaleev/gitea-docker-ansible-deploy/issues/5) in [spantaleev/gitea-docker-ansible-deploy](https://github.com/spantaleev/gitea-docker-ansible-deploy)
 <!--END_SECTION:activity-->
-
