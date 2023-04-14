@@ -5,7 +5,7 @@ on:
     - cron: '*/15 * * * *'
 
 jobs:
-  Main-Job:
+  Update-Activity:
     runs-on: ubuntu-latest
     name: Update sagat79 repo's README with recent activity
     steps:
@@ -13,14 +13,14 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  Ping-Success:
+  Update-Success:
     runs-on: ubuntu-latest
-    needs: [Main-Job]
+    needs: [Update-Activity]
     steps:
       - run: curl -m 10 --retry 5 ${{ secrets.HEALTHCHECKS_DIMOV }}
-  Ping-Failure:
+  Update-Failure:
     runs-on: ubuntu-latest
     if: ${{ failure() }}
-    needs: [Main-Job]
+    needs: [Update-Activity]
     steps:
       - run: curl -m 10 --retry 5 ${{ secrets.HEALTHCHECKS_DIMOV }}/fail
