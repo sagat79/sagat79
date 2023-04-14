@@ -5,6 +5,7 @@ on:
     - cron: '30 * * * *'
 
 jobs:
+  Main-Job:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
@@ -14,3 +15,14 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Ping-Success:
+    runs-on: ubuntu-latest
+    needs: [Main-Job]
+    steps:
+      - run: curl -m 10 --retry 5 ${{ secrets.HEALTHCHECKS_DIMOV }}
+  Ping-Failure:
+    runs-on: ubuntu-latest
+    if: ${{ failure() }}
+    needs: [Main-Job]
+    steps:
+      - run: curl -m 10 --retry 5 ${{ secrets.HEALTHCHECKS_DIMOV }}/fail
