@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 2. 💪 Opened PR [#1](https://github.com/sagat79/ghost-cloudinary/pull/1) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
 3. 💪 Opened PR [#15](https://github.com/mother-of-all-self-hosting/mash-playbook/pull/15) in [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook)
 <!--END_SECTION:activity-->
+
