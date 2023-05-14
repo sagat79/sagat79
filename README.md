@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sagat79/ghost-cloudinary/pull/1) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
-2. 💪 Opened PR [#1](https://github.com/sagat79/ghost-cloudinary/pull/1) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
-3. 💪 Opened PR [#15](https://github.com/mother-of-all-self-hosting/mash-playbook/pull/15) in [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook)
+1. 🎉 Merged PR [#1](https://github.com/sagat79/simply/pull/1) in [sagat79/simply](https://github.com/sagat79/simply)
+2. 💪 Opened PR [#1](https://github.com/sagat79/simply/pull/1) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 🎉 Merged PR [#1](https://github.com/sagat79/ghost-cloudinary/pull/1) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
 <!--END_SECTION:activity-->
 
