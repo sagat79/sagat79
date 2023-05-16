@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/sagat79/simply/pull/2) in [sagat79/simply](https://github.com/sagat79/simply)
-2. 💪 Opened PR [#2](https://github.com/sagat79/simply/pull/2) in [sagat79/simply](https://github.com/sagat79/simply)
-3. 🎉 Merged PR [#1](https://github.com/sagat79/simply/pull/1) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 💪 Opened PR [#3](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/3) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+2. 🎉 Merged PR [#2](https://github.com/sagat79/simply/pull/2) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 💪 Opened PR [#2](https://github.com/sagat79/simply/pull/2) in [sagat79/simply](https://github.com/sagat79/simply)
 <!--END_SECTION:activity-->
 
