@@ -20,7 +20,6 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 <!-- DIMOV-POST-LIST:END -->
 
 
-
 :zap: &nbsp;**GitHub Stats**
 
 <img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagat79&show_icons=true&hide_border=true&count_private=true" />
