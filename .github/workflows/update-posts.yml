@@ -1,0 +1,21 @@
+name: Latest post workflow
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-posts:
+    name: Update this repo's README with latest posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dimov.xyz posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 3
+          comment_tag_name: "DIMOV-POST-LIST"
+          feed_list: "https://www.dimov.xyz/rss"

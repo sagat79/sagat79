@@ -3,6 +3,7 @@ name: DIMOV GitHub Recent Activity
 on:
   schedule:
     - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   Update-Activity:
@@ -11,10 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: gautamkrishnar/keepalive-workflow@v1
   Update-Success:
     runs-on: ubuntu-latest
