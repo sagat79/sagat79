@@ -9,6 +9,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 [matrixto]: https://l.dimov.xyz/matrix?ref=github.com
 [github]: https://l.dimov.xyz/github?ref=github.com
    
+---
 
 📑 &nbsp;**Latest Posts**
 
@@ -18,7 +19,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 - [How to list Windows hidden shares remotely](https://www.dimov.xyz/how-to-list-hidden-shares-remotely/)
 <!-- DIMOV-POST-LIST:END -->
 
----
+
 
 :zap: &nbsp;**GitHub Stats**
 
