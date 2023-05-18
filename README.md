@@ -12,8 +12,8 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 
 📑 &nbsp;**Latest Posts**
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- DIMOV-POST-LIST:START -->
+<!-- DIMOV-POST-LIST:END -->
 
 ---
 
