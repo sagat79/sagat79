@@ -1,4 +1,4 @@
-name: DIMOV GitHub Recent Activity
+name: GitHub Recent Activity
 
 on:
   schedule:

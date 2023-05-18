@@ -13,27 +13,12 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sagat79.vistorsBadge)
 ![GitHub followers](https://img.shields.io/github/followers/sagat79?color=velvet&style=flat-square)
 
-
+:zap: &nbsp;**Recent Activities**
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
 
 <!-- DIMOV-POST-LIST:START -->
-- [The Mac Terminal Commands Cheat Sheet](https://www.dimov.xyz/the-mac-terminal-commands-cheat-sheet/)
-- [Remote SSH to OMV6 via Visual Studio Code](https://www.dimov.xyz/remote-ssh-via-visual-studio-code/)
-- [How to list Windows hidden shares remotely](https://www.dimov.xyz/how-to-list-hidden-shares-remotely/)
 <!-- DIMOV-POST-LIST:END -->
-
-
-:zap: &nbsp;**GitHub Stats**
-
-
-<img align="right" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagat79&show_icons=true&hide_border=true&count_private=true" />
-
-
-:zap: Recent GitHub Activities
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/3) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-2. 🎉 Merged PR [#2](https://github.com/sagat79/simply/pull/2) in [sagat79/simply](https://github.com/sagat79/simply)
-3. 💪 Opened PR [#2](https://github.com/sagat79/simply/pull/2) in [sagat79/simply](https://github.com/sagat79/simply)
-<!--END_SECTION:activity-->
