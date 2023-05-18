@@ -5,11 +5,15 @@
 A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a web designer. I love building applications & discussing new product ideas. Reach out to me on [matrix][matrixto] if you'd like to talk ✌️
 
 
+
 [homepage]: https://l.dimov.xyz/page?ref=github.com
 [matrixto]: https://l.dimov.xyz/matrix?ref=github.com
 [github]: https://l.dimov.xyz/github?ref=github.com
    
----
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sagat79.vistorsBadge)
+![GitHub followers](https://img.shields.io/github/followers/sagat79?color=velvet&style=flat-square)
+
+
 
 📑 &nbsp;**Latest Posts**
 
@@ -22,7 +26,8 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 
 :zap: &nbsp;**GitHub Stats**
 
-<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagat79&show_icons=true&hide_border=true&count_private=true" />
+
+<img align="right" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagat79&show_icons=true&hide_border=true&count_private=true" />
 
 
 :zap: Recent GitHub Activities
