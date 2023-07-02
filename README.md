@@ -26,7 +26,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 📑 &nbsp;**Latest Posts**
 
 <!-- DIMOV-POST-LIST:START -->
+- [Automating Ubuntu Routine Maintenance using CRONTAB](https://www.dimov.xyz/automating-ubuntu-routine-maintenance-using-crontab/)
 - [The Mac Terminal Commands Cheat Sheet](https://www.dimov.xyz/the-mac-terminal-commands-cheat-sheet/)
 - [Remote SSH to OMV6 via Visual Studio Code](https://www.dimov.xyz/remote-ssh-via-visual-studio-code/)
-- [How to list Windows hidden shares remotely](https://www.dimov.xyz/how-to-list-hidden-shares-remotely/)
 <!-- DIMOV-POST-LIST:END -->
