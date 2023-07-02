@@ -16,11 +16,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/8) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-2. 💪 Opened PR [#7](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/7) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-3. 💪 Opened PR [#5](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/5) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-4. 🗣 Commented on [#2695](https://github.com/spantaleev/matrix-docker-ansible-deploy/issues/2695) in [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)
-5. 🚀 Published release [0.4.0](https://github.com/0.4.0) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 💪 Opened PR [#1](https://github.com/mother-of-all-self-hosting/ansible-role-healthchecks/pull/1) in [mother-of-all-self-hosting/ansible-role-healthchecks](https://github.com/mother-of-all-self-hosting/ansible-role-healthchecks)
+2. ❌ Closed PR [#1](https://github.com/sagat79/ansible-role-healthchecks/pull/1) in [sagat79/ansible-role-healthchecks](https://github.com/sagat79/ansible-role-healthchecks)
+3. 💪 Opened PR [#1](https://github.com/sagat79/ansible-role-healthchecks/pull/1) in [sagat79/ansible-role-healthchecks](https://github.com/sagat79/ansible-role-healthchecks)
+4. 💪 Opened PR [#8](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/8) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+5. 💪 Opened PR [#7](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/7) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
