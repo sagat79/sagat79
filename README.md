@@ -16,7 +16,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2023.5.5-0](https://github.com/v2023.5.5-0) in [sagat79/ansible-role-authentik](https://github.com/sagat79/ansible-role-authentik)
+1. 🚀 Published release [v2023.5.5-0](https://github.com/sagat79/ansible-role-authentik/releases/tag/v2023.5.5-0) in [sagat79/ansible-role-authentik](https://github.com/sagat79/ansible-role-authentik)
 2. 💪 Opened PR [#9](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/9) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
 3. 💪 Opened PR [#1](https://github.com/mother-of-all-self-hosting/ansible-role-healthchecks/pull/1) in [mother-of-all-self-hosting/ansible-role-healthchecks](https://github.com/mother-of-all-self-hosting/ansible-role-healthchecks)
 4. ❌ Closed PR [#1](https://github.com/sagat79/ansible-role-healthchecks/pull/1) in [sagat79/ansible-role-healthchecks](https://github.com/sagat79/ansible-role-healthchecks)
