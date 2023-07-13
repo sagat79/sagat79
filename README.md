@@ -20,7 +20,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 2. 🎉 Merged PR [#1](https://github.com/sagat79/mash-playbook/pull/1) in [sagat79/mash-playbook](https://github.com/sagat79/mash-playbook)
 3. 💪 Opened PR [#1](https://github.com/sagat79/mash-playbook/pull/1) in [sagat79/mash-playbook](https://github.com/sagat79/mash-playbook)
 4. 💪 Opened PR [#10](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/10) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-5. 🚀 Published release [v2023.5.5-0](https://github.com/v2023.5.5-0) in [sagat79/ansible-role-authentik](https://github.com/sagat79/ansible-role-authentik)
+5. 🚀 Published release [v2023.5.5-0](https://github.com/sagat79/ansible-role-authentik/releases/tag/v2023.5.5-0) in [sagat79/ansible-role-authentik](https://github.com/sagat79/ansible-role-authentik)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
