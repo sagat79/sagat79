@@ -16,11 +16,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.20.3-0](https://github.com/sagat79/ansible-role-forgejo/releases/tag/v1.20.3-0) in [sagat79/ansible-role-forgejo](https://github.com/sagat79/ansible-role-forgejo)
-2. 💪 Opened PR [#12](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/12) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-3. 💪 Opened PR [#11](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/11) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-4. 🎉 Merged PR [#1](https://github.com/sagat79/mash-playbook/pull/1) in [sagat79/mash-playbook](https://github.com/sagat79/mash-playbook)
-5. 💪 Opened PR [#1](https://github.com/sagat79/mash-playbook/pull/1) in [sagat79/mash-playbook](https://github.com/sagat79/mash-playbook)
+1. 🚀 Published release [v1.20.4-0](https://github.com/sagat79/ansible-role-forgejo/releases/tag/v1.20.4-0) in [sagat79/ansible-role-forgejo](https://github.com/sagat79/ansible-role-forgejo)
+2. 🚀 Published release [v1.20.3-0](https://github.com/sagat79/ansible-role-forgejo/releases/tag/v1.20.3-0) in [sagat79/ansible-role-forgejo](https://github.com/sagat79/ansible-role-forgejo)
+3. 💪 Opened PR [#12](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/12) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+4. 💪 Opened PR [#11](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/11) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+5. 🎉 Merged PR [#1](https://github.com/sagat79/mash-playbook/pull/1) in [sagat79/mash-playbook](https://github.com/sagat79/mash-playbook)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
