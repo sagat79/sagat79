@@ -16,11 +16,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.20.4-1](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.20.4-1) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-2. 🎉 Merged PR [#1](https://github.com/derfeldev/ansible-role-forgejo/pull/1) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-3. 🔒 Closed issue [#2](https://github.com/derfeldev/ansible-role-forgejo/issues/2) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-4. 🚀 Published release [v1.20.5-1](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.20.5-1) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-5. 💪 Opened PR [#1](https://github.com/sagat79/mash-ansible-role-forgejo/pull/1) in [sagat79/mash-ansible-role-forgejo](https://github.com/sagat79/mash-ansible-role-forgejo)
+1. 🚀 Published release [1.21.2-1](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.21.2-1) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+2. 🚀 Published release [1.20.4-1](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.20.4-1) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 🎉 Merged PR [#1](https://github.com/derfeldev/ansible-role-forgejo/pull/1) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+4. 🔒 Closed issue [#2](https://github.com/derfeldev/ansible-role-forgejo/issues/2) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+5. 🚀 Published release [v1.20.5-1](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.20.5-1) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
