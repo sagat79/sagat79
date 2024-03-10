@@ -16,11 +16,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/derfeldev/ansible-role-forgejo/pull/6) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-2. 🚀 Published release [v1.21.6-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.21.6-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-3. 🎉 Merged PR [#5](https://github.com/derfeldev/ansible-role-forgejo/pull/5) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-4. 🚀 Published release [1.21.5-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.21.5-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-5. 💪 Opened PR [#18](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/18) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+1. 🚀 Published release [v1.21.7-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.21.7-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+2. 🎉 Merged PR [#6](https://github.com/derfeldev/ansible-role-forgejo/pull/6) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 🚀 Published release [v1.21.6-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.21.6-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+4. 🎉 Merged PR [#5](https://github.com/derfeldev/ansible-role-forgejo/pull/5) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+5. 🚀 Published release [1.21.5-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v1.21.5-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
