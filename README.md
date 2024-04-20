@@ -5,13 +5,9 @@
 A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a web designer. I love building applications & discussing new product ideas. Reach out to me on [matrix][matrixto] if you'd like to talk ✌️
 
 
-
 [homepage]: https://l.dimov.xyz/page?ref=github.com
 [matrixto]: https://l.dimov.xyz/matrix?ref=github.com
 [github]: https://l.dimov.xyz/github?ref=github.com
-   
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sagat79.vistorsBadge)
-![GitHub followers](https://img.shields.io/github/followers/sagat79?color=velvet&style=flat-square)
 
 :zap: &nbsp;**Recent Activities**
   
