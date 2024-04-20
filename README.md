@@ -1,5 +1,3 @@
-<img align="left" width="150" height="150" alt="PΛVΞL D." src="https://res.cloudinary.com/dimov/image/upload/c_scale,w_150/v1674315300/logo_qxj2ir.png"/>
-
 ## I'm [PΛVΞL D.][homepage]
 
 A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a web designer. I love building applications & discussing new product ideas. Reach out to me on [matrix][matrixto] if you'd like to talk ✌️
