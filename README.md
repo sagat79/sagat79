@@ -20,7 +20,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 📑 &nbsp;**Latest Posts**
 
 <!-- DIMOV-POST-LIST:START -->
+- [How to bring back classic context menu, Explorer command bar and search box on Windows 11](https://www.dimov.xyz/how-to-bring-back-classic-context-menu-explorer-command-bar-and-search-box-on-windows-11/)
 - [sh: 1: python: not found on Ubuntu 20.04 LTS](https://www.dimov.xyz/sh-1-python-not-found/)
 - [Automating Ubuntu Routine Maintenance using CRONTAB](https://www.dimov.xyz/automating-ubuntu-routine-maintenance-using-crontab/)
-- [The Mac Terminal Commands Cheat Sheet](https://www.dimov.xyz/the-mac-terminal-commands-cheat-sheet/)
 <!-- DIMOV-POST-LIST:END -->
