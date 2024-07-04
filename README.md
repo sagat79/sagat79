@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/derfeldev/ansible-role-forgejo/pull/14) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-2. 💪 Opened PR [#14](https://github.com/derfeldev/ansible-role-forgejo/pull/14) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-3. 🚀 Published release [v7.0.4](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v7.0.4) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-4. 🎉 Merged PR [#13](https://github.com/derfeldev/ansible-role-forgejo/pull/13) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-5. 🚀 Published release [v7.0.3](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v7.0.3) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+1. 🚀 Published release [v7.0.5](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v7.0.5) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+2. 🎉 Merged PR [#15](https://github.com/derfeldev/ansible-role-forgejo/pull/15) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 🎉 Merged PR [#14](https://github.com/derfeldev/ansible-role-forgejo/pull/14) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+4. 💪 Opened PR [#14](https://github.com/derfeldev/ansible-role-forgejo/pull/14) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+5. 🚀 Published release [v7.0.4](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v7.0.4) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
