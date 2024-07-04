@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v7.0.5](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v7.0.5) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-2. 🎉 Merged PR [#15](https://github.com/derfeldev/ansible-role-forgejo/pull/15) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-3. 🎉 Merged PR [#14](https://github.com/derfeldev/ansible-role-forgejo/pull/14) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-4. 💪 Opened PR [#14](https://github.com/derfeldev/ansible-role-forgejo/pull/14) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-5. 🚀 Published release [v7.0.4](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v7.0.4) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+1. ❗ Opened issue [#1](https://github.com/anarion80/ghost_cloudinary_docker/issues/1) in [anarion80/ghost_cloudinary_docker](https://github.com/anarion80/ghost_cloudinary_docker)
+2. 🚀 Published release [v7.0.5](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v7.0.5) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 🎉 Merged PR [#15](https://github.com/derfeldev/ansible-role-forgejo/pull/15) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+4. 🎉 Merged PR [#14](https://github.com/derfeldev/ansible-role-forgejo/pull/14) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+5. 💪 Opened PR [#14](https://github.com/derfeldev/ansible-role-forgejo/pull/14) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
