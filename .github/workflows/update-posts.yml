@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
+
       - name: Pull in dimov.xyz posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
