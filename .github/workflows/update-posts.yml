@@ -19,6 +19,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 3
-          comment_tag_name: "DIMOV-POSTS-LIST"
+          comment_tag_name: "DIMOV-POST-LIST"
           feed_list: "https://www.dimov.xyz/rss/"
           enable_keepalive: true
