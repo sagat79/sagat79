@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/derfeldev/ansible-role-forgejo/pull/20) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-2. 💪 Opened PR [#25](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/25) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-3. 💪 Opened PR [#14](https://github.com/elusyx/ansible-role-forgejo/pull/14) in [elusyx/ansible-role-forgejo](https://github.com/elusyx/ansible-role-forgejo)
-4. 🚀 Published release [v8.0.2-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v8.0.2-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-5. 🎉 Merged PR [#19](https://github.com/derfeldev/ansible-role-forgejo/pull/19) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+1. 💪 Opened PR [#26](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/26) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+2. 🚀 Published release [v8.0.3-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v8.0.3-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 🎉 Merged PR [#20](https://github.com/derfeldev/ansible-role-forgejo/pull/20) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+4. 💪 Opened PR [#25](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/25) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+5. 💪 Opened PR [#14](https://github.com/elusyx/ansible-role-forgejo/pull/14) in [elusyx/ansible-role-forgejo](https://github.com/elusyx/ansible-role-forgejo)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
