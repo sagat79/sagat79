@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#276](https://github.com/mother-of-all-self-hosting/mash-playbook/issues/276) in [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook)
-2. 💪 Opened PR [#27](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/27) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-3. 💪 Opened PR [#15](https://github.com/elusyx/ansible-role-forgejo/pull/15) in [elusyx/ansible-role-forgejo](https://github.com/elusyx/ansible-role-forgejo)
-4. 💪 Opened PR [#26](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/26) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-5. 🚀 Published release [v8.0.3-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v8.0.3-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+1. 💪 Opened PR [#16](https://github.com/syne909/ansible-role-forgejo/pull/16) in [syne909/ansible-role-forgejo](https://github.com/syne909/ansible-role-forgejo)
+2. 🚀 Published release [v9.0.0-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v9.0.0-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 🎉 Merged PR [#21](https://github.com/derfeldev/ansible-role-forgejo/pull/21) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+4. ❗ Opened issue [#276](https://github.com/mother-of-all-self-hosting/mash-playbook/issues/276) in [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook)
+5. 💪 Opened PR [#27](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/27) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
