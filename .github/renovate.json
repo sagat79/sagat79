@@ -1,6 +1,12 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
-	"extends": ["config:base"],
-	"assignees": ["sagat79"],
-	"labels": ["dependencies"]
+	"extends": [
+		"config:recommended"
+	],
+	"assignees": [
+		"sagat79"
+	],
+	"labels": [
+		"dependencies"
+	]
 }
