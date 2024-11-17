@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sagat79/ghost-cloudinary/pull/3) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
-2. 🎉 Merged PR [#2](https://github.com/sagat79/ghost-cloudinary/pull/2) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
-3. 🎉 Merged PR [#24](https://github.com/derfeldev/ansible-role-forgejo/pull/24) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-4. 🎉 Merged PR [#3](https://github.com/sagat79/sagat79/pull/3) in [sagat79/sagat79](https://github.com/sagat79/sagat79)
-5. 🎉 Merged PR [#1](https://github.com/sagat79/sagat79/pull/1) in [sagat79/sagat79](https://github.com/sagat79/sagat79)
+1. 🎉 Merged PR [#16](https://github.com/sagat79/simply/pull/16) in [sagat79/simply](https://github.com/sagat79/simply)
+2. 🎉 Merged PR [#9](https://github.com/sagat79/simply/pull/9) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 🔒 Closed issue [#8](https://github.com/sagat79/simply/issues/8) in [sagat79/simply](https://github.com/sagat79/simply)
+4. ❗ Opened issue [#8](https://github.com/sagat79/simply/issues/8) in [sagat79/simply](https://github.com/sagat79/simply)
+5. 🎉 Merged PR [#7](https://github.com/sagat79/simply/pull/7) in [sagat79/simply](https://github.com/sagat79/simply)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
