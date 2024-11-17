@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/sagat79/simply/pull/16) in [sagat79/simply](https://github.com/sagat79/simply)
-2. 🎉 Merged PR [#9](https://github.com/sagat79/simply/pull/9) in [sagat79/simply](https://github.com/sagat79/simply)
-3. 🔒 Closed issue [#8](https://github.com/sagat79/simply/issues/8) in [sagat79/simply](https://github.com/sagat79/simply)
-4. ❗ Opened issue [#8](https://github.com/sagat79/simply/issues/8) in [sagat79/simply](https://github.com/sagat79/simply)
-5. 🎉 Merged PR [#7](https://github.com/sagat79/simply/pull/7) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 🎉 Merged PR [#20](https://github.com/sagat79/simply/pull/20) in [sagat79/simply](https://github.com/sagat79/simply)
+2. 💪 Opened PR [#20](https://github.com/sagat79/simply/pull/20) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 🚀 Published release [v0.4.2](https://github.com/sagat79/simply/releases/tag/v0.4.2-0) in [sagat79/simply](https://github.com/sagat79/simply)
+4. 🎉 Merged PR [#18](https://github.com/sagat79/simply/pull/18) in [sagat79/simply](https://github.com/sagat79/simply)
+5. 🎉 Merged PR [#19](https://github.com/sagat79/simply/pull/19) in [sagat79/simply](https://github.com/sagat79/simply)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
