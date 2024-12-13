@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/35) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-2. 💪 Opened PR [#33](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/33) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-3. 🔒 Closed issue [#8](https://github.com/sagat79/simply/issues/8) in [sagat79/simply](https://github.com/sagat79/simply)
-4. 🚀 Published release [v0.4.2](https://github.com/sagat79/simply/releases/tag/v0.4.2-0) in [sagat79/simply](https://github.com/sagat79/simply)
-5. 🎉 Merged PR [#20](https://github.com/sagat79/simply/pull/20) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 💪 Opened PR [#19](https://github.com/reduktr/ansible-role-forgejo/pull/19) in [reduktr/ansible-role-forgejo](https://github.com/reduktr/ansible-role-forgejo)
+2. 🚀 Published release [v9.0.3-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v9.0.3-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 🎉 Merged PR [#25](https://github.com/derfeldev/ansible-role-forgejo/pull/25) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+4. 💪 Opened PR [#35](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/35) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+5. 💪 Opened PR [#33](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/33) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
