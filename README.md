@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/38) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-2. 💪 Opened PR [#37](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/37) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-3. 💪 Opened PR [#36](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/36) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-4. 💪 Opened PR [#19](https://github.com/reduktr/ansible-role-forgejo/pull/19) in [reduktr/ansible-role-forgejo](https://github.com/reduktr/ansible-role-forgejo)
-5. 🚀 Published release [v9.0.3-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v9.0.3-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+1. 🎉 Merged PR [#21](https://github.com/sagat79/simply/pull/21) in [sagat79/simply](https://github.com/sagat79/simply)
+2. 💪 Opened PR [#38](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/38) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+3. 💪 Opened PR [#37](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/37) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+4. 💪 Opened PR [#36](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/36) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+5. 💪 Opened PR [#19](https://github.com/reduktr/ansible-role-forgejo/pull/19) in [reduktr/ansible-role-forgejo](https://github.com/reduktr/ansible-role-forgejo)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
