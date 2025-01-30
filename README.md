@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/sagat79/simply/pull/24) in [sagat79/simply](https://github.com/sagat79/simply)
-2. 🎉 Merged PR [#23](https://github.com/sagat79/simply/pull/23) in [sagat79/simply](https://github.com/sagat79/simply)
-3. 💪 Opened PR [#23](https://github.com/sagat79/simply/pull/23) in [sagat79/simply](https://github.com/sagat79/simply)
-4. 🎉 Merged PR [#22](https://github.com/sagat79/simply/pull/22) in [sagat79/simply](https://github.com/sagat79/simply)
-5. 💪 Opened PR [#22](https://github.com/sagat79/simply/pull/22) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 💪 Opened PR [#39](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/39) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+2. 🎉 Merged PR [#24](https://github.com/sagat79/simply/pull/24) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 🎉 Merged PR [#23](https://github.com/sagat79/simply/pull/23) in [sagat79/simply](https://github.com/sagat79/simply)
+4. 💪 Opened PR [#23](https://github.com/sagat79/simply/pull/23) in [sagat79/simply](https://github.com/sagat79/simply)
+5. 🎉 Merged PR [#22](https://github.com/sagat79/simply/pull/22) in [sagat79/simply](https://github.com/sagat79/simply)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
