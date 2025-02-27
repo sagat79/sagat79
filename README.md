@@ -10,11 +10,11 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/41) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
-2. 🔒 Closed issue [#2](https://github.com/derfeldev/derfel/issues/2) in [derfeldev/derfel](https://github.com/derfeldev/derfel)
+1. 💪 Opened PR [#42](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/42) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+2. 💪 Opened PR [#41](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/41) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
 3. 🔒 Closed issue [#2](https://github.com/derfeldev/derfel/issues/2) in [derfeldev/derfel](https://github.com/derfeldev/derfel)
-4. 🔒 Closed issue [#1](https://github.com/derfeldev/derfel/issues/1) in [derfeldev/derfel](https://github.com/derfeldev/derfel)
-5. 💪 Opened PR [#21](https://github.com/reduktr/ansible-role-forgejo/pull/21) in [reduktr/ansible-role-forgejo](https://github.com/reduktr/ansible-role-forgejo)
+4. 🔒 Closed issue [#2](https://github.com/derfeldev/derfel/issues/2) in [derfeldev/derfel](https://github.com/derfeldev/derfel)
+5. 🔒 Closed issue [#1](https://github.com/derfeldev/derfel/issues/1) in [derfeldev/derfel](https://github.com/derfeldev/derfel)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
