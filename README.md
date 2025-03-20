@@ -10,7 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-
+1. 🎉 Merged PR [#4890](https://github.com/hoppscotch/hoppscotch/pull/4890) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🎉 Merged PR [#4883](https://github.com/hoppscotch/hoppscotch/pull/4883) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🎉 Merged PR [#4887](https://github.com/hoppscotch/hoppscotch/pull/4887) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
