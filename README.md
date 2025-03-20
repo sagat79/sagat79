@@ -10,9 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4890](https://github.com/hoppscotch/hoppscotch/pull/4890) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🎉 Merged PR [#4883](https://github.com/hoppscotch/hoppscotch/pull/4883) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🎉 Merged PR [#4887](https://github.com/hoppscotch/hoppscotch/pull/4887) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🎉 Merged PR [#26](https://github.com/sagat79/simply/pull/26) in [sagat79/simply](https://github.com/sagat79/simply)
+2. 🎉 Merged PR [#25](https://github.com/sagat79/simply/pull/25) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 💪 Opened PR [#42](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/42) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
