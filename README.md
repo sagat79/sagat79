@@ -10,9 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/sagat79/simply/pull/26) in [sagat79/simply](https://github.com/sagat79/simply)
-2. 🎉 Merged PR [#25](https://github.com/sagat79/simply/pull/25) in [sagat79/simply](https://github.com/sagat79/simply)
-3. 💪 Opened PR [#42](https://github.com/mother-of-all-self-hosting/ansible-role-authentik/pull/42) in [mother-of-all-self-hosting/ansible-role-authentik](https://github.com/mother-of-all-self-hosting/ansible-role-authentik)
+1. 💪 Opened PR [#31](https://github.com/mother-of-all-self-hosting/ansible-role-nextcloud/pull/31) in [mother-of-all-self-hosting/ansible-role-nextcloud](https://github.com/mother-of-all-self-hosting/ansible-role-nextcloud)
+2. 🎉 Merged PR [#26](https://github.com/sagat79/simply/pull/26) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 🎉 Merged PR [#25](https://github.com/sagat79/simply/pull/25) in [sagat79/simply](https://github.com/sagat79/simply)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
