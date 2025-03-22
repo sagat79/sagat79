@@ -10,9 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/derfeldev/ansible-role-forgejo/pull/28) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-2. 💪 Opened PR [#31](https://github.com/mother-of-all-self-hosting/ansible-role-nextcloud/pull/31) in [mother-of-all-self-hosting/ansible-role-nextcloud](https://github.com/mother-of-all-self-hosting/ansible-role-nextcloud)
-3. 🎉 Merged PR [#26](https://github.com/sagat79/simply/pull/26) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 🚀 Published release [v10.0.2-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v10.0.2-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+2. 🎉 Merged PR [#28](https://github.com/derfeldev/ansible-role-forgejo/pull/28) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 💪 Opened PR [#31](https://github.com/mother-of-all-self-hosting/ansible-role-nextcloud/pull/31) in [mother-of-all-self-hosting/ansible-role-nextcloud](https://github.com/mother-of-all-self-hosting/ansible-role-nextcloud)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
