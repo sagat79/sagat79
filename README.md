@@ -10,9 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/mother-of-all-self-hosting/ansible-role-collabora-online/pull/3) in [mother-of-all-self-hosting/ansible-role-collabora-online](https://github.com/mother-of-all-self-hosting/ansible-role-collabora-online)
-2. 💪 Opened PR [#1](https://github.com/mother-of-all-self-hosting/ansible-role-forgejo/pull/1) in [mother-of-all-self-hosting/ansible-role-forgejo](https://github.com/mother-of-all-self-hosting/ansible-role-forgejo)
-3. 🚀 Published release [v10.0.2-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v10.0.2-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+1. 🚀 Published release [v10.0.3-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v10.0.3-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+2. 🎉 Merged PR [#29](https://github.com/derfeldev/ansible-role-forgejo/pull/29) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 💪 Opened PR [#3](https://github.com/mother-of-all-self-hosting/ansible-role-collabora-online/pull/3) in [mother-of-all-self-hosting/ansible-role-collabora-online](https://github.com/mother-of-all-self-hosting/ansible-role-collabora-online)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
