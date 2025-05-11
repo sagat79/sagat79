@@ -10,9 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v11.0.1-0](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v11.0.1-0) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-2. 🎉 Merged PR [#31](https://github.com/derfeldev/ansible-role-forgejo/pull/31) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-3. 💪 Opened PR [#2](https://github.com/mother-of-all-self-hosting/ansible-role-forgejo/pull/2) in [mother-of-all-self-hosting/ansible-role-forgejo](https://github.com/mother-of-all-self-hosting/ansible-role-forgejo)
+1. 🎉 Merged PR [#28](https://github.com/sagat79/simply/pull/28) in [sagat79/simply](https://github.com/sagat79/simply)
+2. 💪 Opened PR [#28](https://github.com/sagat79/simply/pull/28) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 🚀 Published release [v0.4.2-2](https://github.com/sagat79/simply/releases/tag/v0.4.2-2) in [sagat79/simply](https://github.com/sagat79/simply)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
