@@ -10,9 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.6](https://github.com/sagat79/simply/releases/tag/v0.4.6) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 🚀 Published release [v2025.06.0](https://github.com/sagat79/osticket-slack/releases/tag/v2025.06.0) in [sagat79/osticket-slack](https://github.com/sagat79/osticket-slack)
 2. 🚀 Published release [v0.4.6](https://github.com/sagat79/simply/releases/tag/v0.4.6) in [sagat79/simply](https://github.com/sagat79/simply)
-3. 🚀 Published release [v11.0.1-5](https://github.com/derfeldev/ansible-role-forgejo/releases/tag/v11.0.1-5) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
+3. 🚀 Published release [v0.4.6](https://github.com/sagat79/simply/releases/tag/v0.4.6) in [sagat79/simply](https://github.com/sagat79/simply)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
