@@ -10,9 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/sagat79/simply/pull/36) in [sagat79/simply](https://github.com/sagat79/simply)
-2. 🎉 Merged PR [#5](https://github.com/sagat79/ghost-cloudinary/pull/5) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
-3. 🎉 Merged PR [#35](https://github.com/sagat79/simply/pull/35) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 🎉 Merged PR [#6](https://github.com/sagat79/ghost-cloudinary/pull/6) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
+2. 🎉 Merged PR [#36](https://github.com/sagat79/simply/pull/36) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 🎉 Merged PR [#5](https://github.com/sagat79/ghost-cloudinary/pull/5) in [sagat79/ghost-cloudinary](https://github.com/sagat79/ghost-cloudinary)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
