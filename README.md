@@ -10,9 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/sagat79/simply/pull/38) in [sagat79/simply](https://github.com/sagat79/simply)
-2. 🎉 Merged PR [#46](https://github.com/derfeldev/ansible-role-forgejo/pull/46) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
-3. 🎉 Merged PR [#37](https://github.com/sagat79/simply/pull/37) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 🎉 Merged PR [#2](https://github.com/derfeldev/ansible-role-ghost/pull/2) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
+2. 🎉 Merged PR [#38](https://github.com/sagat79/simply/pull/38) in [sagat79/simply](https://github.com/sagat79/simply)
+3. 🎉 Merged PR [#46](https://github.com/derfeldev/ansible-role-forgejo/pull/46) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
