@@ -10,9 +10,9 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v6.0.5-0](https://github.com/derfeldev/ansible-role-ghost/releases/tag/v6.0.5-0) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
-2. 🎉 Merged PR [#6](https://github.com/derfeldev/ansible-role-ghost/pull/6) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
-3. 🎉 Merged PR [#5](https://github.com/derfeldev/ansible-role-ghost/pull/5) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
+1. 🎉 Merged PR [#3](https://github.com/derfeldev/ansible-role-ghost/pull/3) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
+2. 🚀 Published release [v6.0.5-0](https://github.com/derfeldev/ansible-role-ghost/releases/tag/v6.0.5-0) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
+3. 🎉 Merged PR [#6](https://github.com/derfeldev/ansible-role-ghost/pull/6) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
 <!--END_SECTION:activity-->
 
 📑 &nbsp;**Latest Posts**
