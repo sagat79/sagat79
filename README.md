@@ -10,7 +10,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](undefined) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 🎉 Merged PR [#48](https://github.com/derfeldev/ansible-role-forgejo/pull/48) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
 2. 🎉 Merged PR [#47](https://github.com/derfeldev/ansible-role-forgejo/pull/47) in [derfeldev/ansible-role-forgejo](https://github.com/derfeldev/ansible-role-forgejo)
 3. 💪 Opened PR [#39](https://github.com/sagat79/simply/pull/39) in [sagat79/simply](https://github.com/sagat79/simply)
 <!--END_SECTION:activity-->
