@@ -4,7 +4,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 
 
 [homepage]: https://l.dimov.xyz/page?ref=github.com
-[matrixto]: https://l.dimov.xyz/matrix?ref=github.com
+[matrixto]: https://go.dimov.xyz/#/@pavel:dimov.xyz?ref=github.com
 [github]: https://l.dimov.xyz/github?ref=github.com
 
 :zap: &nbsp;**Recent Activities**
