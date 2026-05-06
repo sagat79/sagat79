@@ -18,7 +18,7 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 📑 &nbsp;**Latest Posts**
 
 <!-- DIMOV-POST-LIST:START -->
+- [Enhancing Network Privacy: Configuring Encrypted Cloudflare DNS on UniFi](https://www.dimov.xyz/enhancing-network-privacy-configuring-encrypted-cloudflare-dns-on-unifi/)
 - [How to Safely Upgrade Your WordPress Site to PHP 8.3 in 2026](https://www.dimov.xyz/how-to-upgrade-wordpress-php-8-3/)
 - [Elevating Your Ghost Admin Security with Cloudflare Access](https://www.dimov.xyz/elevating-your-ghost-admin-security-with-cloudflare-access/)
-- [How to bring back classic context menu, Explorer command bar and search box on Windows 11](https://www.dimov.xyz/how-to-bring-back-classic-context-menu-explorer-command-bar-and-search-box-on-windows-11/)
 <!-- DIMOV-POST-LIST:END -->
