@@ -10,8 +10,8 @@ A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincid
 :zap: &nbsp;**Recent Activities**
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#55](https://github.com/mother-of-all-self-hosting/ansible-role-freescout/issues/55) in [mother-of-all-self-hosting/ansible-role-freescout](https://github.com/mother-of-all-self-hosting/ansible-role-freescout)
-2. 💪 Opened PR [#9](undefined) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
+1. 🗣 Commented on [#55](https://github.com/mother-of-all-self-hosting/ansible-role-freescout/issues/55#issuecomment-4514491497) in [mother-of-all-self-hosting/ansible-role-freescout](https://github.com/mother-of-all-self-hosting/ansible-role-freescout)
+2. ❗ Opened issue [#55](https://github.com/mother-of-all-self-hosting/ansible-role-freescout/issues/55) in [mother-of-all-self-hosting/ansible-role-freescout](https://github.com/mother-of-all-self-hosting/ansible-role-freescout)
 3. 💪 Opened PR [#8](undefined) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
 <!--END_SECTION:activity-->
 
