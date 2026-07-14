@@ -1,24 +1,47 @@
-## I'm [PΛVΞL D.][homepage]
+<div align="center">
 
-A tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a web designer. I love building applications & discussing new product ideas. Reach out to me on [matrix][matrixto] if you'd like to talk ✌️
+# PΛVΞL D.
 
+*A tireless seeker of knowledge, occasional purveyor of wisdom and,<br>coincidentally, a web designer.*
 
-[homepage]: https://l.dimov.xyz/page?ref=github.com
-[matrixto]: https://go.dimov.xyz/#/@pavel:dimov.xyz?ref=github.com
-[github]: https://l.dimov.xyz/github?ref=github.com
+I love building applications & discussing new product ideas.
 
-:zap: &nbsp;**Recent Activities**
-  
+[![Website](https://img.shields.io/badge/Website-dimov.xyz-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://l.dimov.xyz/page?ref=github.com)
+[![Matrix](https://img.shields.io/badge/Matrix-@pavel:dimov.xyz-0dbd8b?style=flat-square&logo=matrix&logoColor=white)](https://go.dimov.xyz/#/@pavel:dimov.xyz?ref=github.com)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repo" width="49%">
+  </picture>
+</div>
+
+### ⚡ Recent Activity
+
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/mother-of-all-self-hosting/ansible-role-freescout/issues/55#issuecomment-4514491497) in [mother-of-all-self-hosting/ansible-role-freescout](https://github.com/mother-of-all-self-hosting/ansible-role-freescout)
-2. ❗ Opened issue [#55](https://github.com/mother-of-all-self-hosting/ansible-role-freescout/issues/55) in [mother-of-all-self-hosting/ansible-role-freescout](https://github.com/mother-of-all-self-hosting/ansible-role-freescout)
-3. 💪 Opened PR [#8](undefined) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
 <!--END_SECTION:activity-->
 
-📑 &nbsp;**Latest Posts**
+### 📑 Latest Posts
 
 <!-- DIMOV-POST-LIST:START -->
-- [Enhancing Network Privacy: Configuring Encrypted Cloudflare DNS on UniFi](https://www.dimov.xyz/enhancing-network-privacy-configuring-encrypted-cloudflare-dns-on-unifi/)
-- [How to Safely Upgrade Your WordPress Site to PHP 8.3 in 2026](https://www.dimov.xyz/how-to-upgrade-wordpress-php-8-3/)
-- [Elevating Your Ghost Admin Security with Cloudflare Access](https://www.dimov.xyz/elevating-your-ghost-admin-security-with-cloudflare-access/)
 <!-- DIMOV-POST-LIST:END -->
+
+---
+
+<div align="center">
+  <sub>⚙️ Auto-updated by GitHub Actions · Public activity only</sub>
+</div>
