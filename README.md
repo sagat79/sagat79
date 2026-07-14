@@ -33,6 +33,8 @@ I love building applications & discussing new product ideas.
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#7](https://github.com/sagat79/sagat79/pull/7) in [sagat79/sagat79](https://github.com/sagat79/sagat79)
+2. 💪 Opened PR [#7](https://github.com/sagat79/sagat79/pull/7) in [sagat79/sagat79](https://github.com/sagat79/sagat79)
 <!--END_SECTION:activity-->
 
 ### 📑 Latest Posts
