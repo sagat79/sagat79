@@ -40,9 +40,9 @@ I love building applications & discussing new product ideas.
 ### 📑 Latest Posts
 
 <!-- DIMOV-POST-LIST:START -->
+- [The Ghost Full-Stack Expert Prompt: Turn Any AI Assistant Into a Ghost Developer](https://www.dimov.xyz/ghost-full-stack-expert-system-prompt/)
 - [Enhancing Network Privacy: Configuring Encrypted Cloudflare DNS on UniFi](https://www.dimov.xyz/enhancing-network-privacy-configuring-encrypted-cloudflare-dns-on-unifi/)
 - [How to Safely Upgrade Your WordPress Site to PHP 8.3 in 2026](https://www.dimov.xyz/how-to-upgrade-wordpress-php-8-3/)
-- [Elevating Your Ghost Admin Security with Cloudflare Access](https://www.dimov.xyz/elevating-your-ghost-admin-security-with-cloudflare-access/)
 <!-- DIMOV-POST-LIST:END -->
 
 ---
