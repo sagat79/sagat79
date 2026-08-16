@@ -33,8 +33,8 @@ I love building applications & discussing new product ideas.
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/sagat79/simply/pull/81) in [sagat79/simply](https://github.com/sagat79/simply)
-2. 🎉 Merged PR [#80](https://github.com/sagat79/simply/pull/80) in [sagat79/simply](https://github.com/sagat79/simply)
+1. 🎉 Merged PR [#131](https://github.com/derfeldev/ansible-role-ghost/pull/131) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
+2. 💪 Opened PR [#131](https://github.com/derfeldev/ansible-role-ghost/pull/131) in [derfeldev/ansible-role-ghost](https://github.com/derfeldev/ansible-role-ghost)
 <!--END_SECTION:activity-->
 
 ### 📑 Latest Posts
